@@ -4,29 +4,26 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hello! I am a postbaccalaureate fellow at the National Human Genome Research
-Institute in the Medical Genomics Unit under Dr. Benjamin Solomon. I am
-interested in machine learning and deep learning algorithms that improve patient
-outcomes. My recent work involves applying natural language processing to public
-and private datasets to build models for extracting patient and language
-annotators.</p>
+Hello! I am a first-year medical student at the [David Geffen School of Medicine](https://medschool.ucla.edu) at the 
+University of California Los Angeles. I am interested in machine learning and deep learning algorithms that improve 
+patient outcomes. My recent work involves applying natural language processing and image classiciation for data 
+extraction and disease identifiction. I was previously a postbaccalaureate fellow at the [National Human Genome Research 
+Institute](https://www.genome.gov) in the Medical Genomics Unit under 
+[Dr. Benjamin Solomon](https://www.genome.gov/staff/Benjamin-Solomon-MD).
 
-<p>I received a B.S. in Biomedical Engineering from the Johns Hopkins University
-in 2021 and completed major requirements for Computer Science. I was also
-nominated along with several other members of Health 3D for the Linda Trinh
-Memorial Award for our work in manufacturing face shields and other PPE for the
-Johns Hopkins Hospital System during the summer of 2020.</p>
+I received a B.S. in Biomedical Engineering from the Johns Hopkins University in 2021 and completed major requirements 
+for Computer Science. I was nominated along with several other members of our social venture Health 3D for the Linda 
+Trinh Memorial Award for our work in manufacturing face shields and other PPE for the Johns Hopkins Hospital System 
+during the summer of 2020.
 
-<p>I have published several articles and also received the JHU AY 2021 Provost's
-Undergraduate Research Award. For a complete list of my publications, please
-refer to my <a href="https://simonliu.dev/cv">CV</a> or
-<a href="https://scholar.google.com/citations?user=fwh_UDMAAAAJ&hl=en">Google
-Scholar</a>.</p>
+I have published several articles and also received the JHU AY 2021 Provost's Undergraduate Research Award to pursue an 
+independent research project in developing novel image processing algorithms for an implantable cranial device.. For a 
+complete list of my publications, please refer to my [CV](https://simonliu.dev/cv) or
+[Google Scholar](https://scholar.google.com/citations?user=fwh_UDMAAAAJ).
 
-<p>In my spare time, I enjoy tinkering with servers and electronics in my homelab,
-managing a small server stack I use to host numerous services and game servers.
-Notable inclusions are PiHole DNS, Bitwarden, Authelia, and Plex. I also enjoy
-weightlifting and hiking among other outdoor activities.</p>
+In my spare time, I enjoy tinkering with servers and electronics in my homelab, managing a large server stack I use to 
+host numerous services and game servers. Notable inclusions are Adguard Home DNS, Bitwarden, Wireguard, and Plex. I also 
+enjoy weightlifting and kayaking among other outdoor activities.
 
 <!-- <h2>Skills</h2>
 
