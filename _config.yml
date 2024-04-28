@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://simonliu.dev/cv/
 
-url: https://simonliu99.github.io
+url: https://simonliu.dev
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
